@@ -20,11 +20,6 @@ Django
 MySQL
 MySQL Workbench
 Steps
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/tech-sports-explainer.git
 cd tech-sports-explainer
 Create a virtual environment and activate it:
 
